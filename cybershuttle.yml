@@ -1,3 +1,5 @@
+privacy: PUBLIC
+
 project:
   name: "Abaqus_Workflow"
   description: "Codes from the official repository of Abaqus_Workflow"
